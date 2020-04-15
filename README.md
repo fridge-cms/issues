@@ -1,2 +1,1 @@
-# issues
-Issue tracker
+# Fridge CMS Issue Tracker
